@@ -1,4 +1,4 @@
-# Finance Analytics 5
+# Finance Analytics 5: Financial Planning Tools
 This is a command-line interface application for creating an emergency financial planner and a retirement planner.  The emergency planner helps clients to determine if they have enough reserve for an emergency fund.  The retirement planner will run Monte Carlo simulations to forecast portfolio performance 10 to 30 years from now. 
 
 ---
